@@ -1,5 +1,5 @@
 # Credit-card-fraud-detection
-Overview
+**Overview**
 
 Implemented a Machine Learning model to detect fraudulent credit card transactions in an imbalanced dataset. Applied data balancing (under-sampling) and trained a Logistic Regression classifier for accurate fraud identification.
 
